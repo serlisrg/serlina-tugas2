@@ -1,0 +1,14 @@
+
+/* Additional custom styles */
+body {
+  background-image: linear-gradient(to right, #ff9a9e, #fad0c4);
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
